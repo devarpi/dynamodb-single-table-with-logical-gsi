@@ -1,0 +1,1 @@
+# dynamodb-single-table-with-logical-gsi
